@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/your-super-idea/static/css/main.584a1aef.chunk.css",
+    "main.js": "/your-super-idea/static/js/main.96b025f9.chunk.js",
+    "main.js.map": "/your-super-idea/static/js/main.96b025f9.chunk.js.map",
+    "runtime-main.js": "/your-super-idea/static/js/runtime-main.81514fb0.js",
+    "runtime-main.js.map": "/your-super-idea/static/js/runtime-main.81514fb0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/your-super-idea/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8bfad76a.chunk.js": "/your-super-idea/static/js/2.8bfad76a.chunk.js",
+    "static/js/2.8bfad76a.chunk.js.map": "/your-super-idea/static/js/2.8bfad76a.chunk.js.map",
+    "index.html": "/your-super-idea/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/your-super-idea/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.584a1aef.chunk.css.map": "/your-super-idea/static/css/main.584a1aef.chunk.css.map",
+    "static/js/2.8bfad76a.chunk.js.LICENSE.txt": "/your-super-idea/static/js/2.8bfad76a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81514fb0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8bfad76a.chunk.js",
+    "static/css/main.584a1aef.chunk.css",
+    "static/js/main.96b025f9.chunk.js"
+  ]
+}
